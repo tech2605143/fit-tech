@@ -1,0 +1,14 @@
+{
+  "name": "fitness-dashboard",
+  "version": "1.0.0",
+  "description": "Interactive Fitness Dashboard",
+  "scripts": {
+    "build": "echo 'Build complete'"
+  },
+  "keywords": [
+    "fitness",
+    "dashboard"
+  ],
+  "author": "",
+  "license": "MIT"
+}
